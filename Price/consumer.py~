@@ -3,7 +3,7 @@ from kafka import KafkaConsumer
 from kafka import KafkaClient
 
 group_name = "my-group"
-topic_name = "price"
+topic_name = "Price"
 
 #kafka = KafkaClient('quickstart.cloudera:9092')
 
