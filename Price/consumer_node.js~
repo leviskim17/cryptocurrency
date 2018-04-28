@@ -4,7 +4,7 @@ var kafka = require('kafka-node'),
     consumer = new HighLevelConsumer(
         client,
         [
-            { topic: 'price' }
+            { topic: 'fast-messages' }
         ],
         {
             groupId: 'my-group'
