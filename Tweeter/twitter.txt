@@ -1,0 +1,6 @@
+[DEFAULT]
+consumerKey = mTXu5RFY4YZna6auDqu7Nt3aQ
+consumerSecret = gj7msmH2QaVT1EoegoGU7k57kHNA9htERBemWD9SxsJ2e68Y2D
+accessToken = 817040983137263616-2NTfqrJeNkukjhcQf3t6RVPSoKSUUBe
+accessTokenSecret = YOUBrMWAG9m15NJFfRgBgVvHsFbO9s8qekmvgcWlgAXGP
+
