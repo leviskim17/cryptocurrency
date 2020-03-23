@@ -1,0 +1,7 @@
+# Cryptocurrency Trend and Risk Analytics using Big Data Architecture and Scrapy Method.
+
+> Research and prove Cryptocurrency Trend and Risk model with Machina Learning approach on Big Data Architecture
+
+## Abstract
+
+We present a cryptocurrency value predictor built with Cloudera Distribution including Apache Hadoop (CDH), supporting Big Data Architecture. The cryptocurrency value predictor (CVP) has a nature of analysis system: Analysing social media, we try to figuring out the current people`s evaluation of cryptocurrency and predict the future price based on the current price and the emotion score. Additionally, we suggest an investment strategy with the financial algorithm. Through Tweepy and Blockchain API, our CDH server aggregates Tweeter and Price information which will be shared to our analytics clients with Kafka and HDFS. For analysis of cryptocurrency reputation, we use the sentiments analytics, vadersentiment for normalized emotion scores from the human-typed text. From the score and price in time series, the system predicts the future price with neural networks, Long short-term memory (LSTM) and Linear Regression. Based on the results, we experiment the simulation of Quantitative Investment Strategies (QIS), the objective situation of current market is derived. Through these processes, our system provides sufficient analysis data for the user's decision-making process of financial investment.
